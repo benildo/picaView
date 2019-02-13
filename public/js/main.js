@@ -1,1 +1,1 @@
-angular.module('picaview', []);
+angular.module('picaView', []);
