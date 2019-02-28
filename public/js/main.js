@@ -1,1 +1,1 @@
-angular.module('picaView', []);
+angular.module('picaView', ['minhasDiretivas', 'ngAnimate']);
